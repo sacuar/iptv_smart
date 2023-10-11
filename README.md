@@ -157,33 +157,11 @@ Same thing, but split up into separate files:
 </table>
 
 </details>
+
 ## Others
 <details>
 <summary>Expand</summary>
 <br>
-
-Playlist in which each channel has its _region_ as a group title:
-
-```
-https://iptv-org.github.io/iptv/index.region.m3u
-```
-
-Same thing, but split up into separate files:
-
-<!-- prettier-ignore -->
-<table>
-  <thead>
-    <tr><th align="left">Region</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
-  </thead>
-  <tbody>
-    <tr><td align="left">EPG</td><td align="right">418</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/regions/arab.m3u</code></td></tr>
-    <tr><td align="left">Database</td><td align="right">2949</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/regions/asia.m3u</code></td></tr>
-    <tr><td align="left">Api</td><td align="right">1939</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/regions/apac.m3u</code></td></tr>
-    <tr><td align="left">Resources</td><td align="right">1055</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/regions/cee.m3u</code></td></tr>
-  </tbody>
-</table>
-
-</details>
 
 ## EPG
 
@@ -200,4 +178,11 @@ The API documentation can be found in the [iptv-org/api](https://github.com/iptv
 ## Resources
 
 Links to other useful IPTV-related resources can be found in the [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) repository.
+
+</details>
+
+
+
+
+
 
