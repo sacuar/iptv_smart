@@ -2,7 +2,7 @@
 Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
 ## Table of contents
 - 📺 [Playlists](#playlists)
-- 🗓 [EPG](#epg)
+- 🗓 [EPG](#Others)
 - 🗄 [Database](#database)
 - 👨‍💻 [API](#api)
 
@@ -153,6 +153,33 @@ Same thing, but split up into separate files:
     <tr><td align="left">South Asia</td><td align="right">593</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/regions/sas.m3u</code></td></tr>
     <tr><td align="left">Southeast Asia</td><td align="right">497</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/regions/sea.m3u</code></td></tr>
     <tr><td align="left">Western Europe</td><td align="right">1011</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/regions/wer.m3u</code></td></tr>
+  </tbody>
+</table>
+
+</details>
+## Others
+<details>
+<summary>Expand</summary>
+<br>
+
+Playlist in which each channel has its _region_ as a group title:
+
+```
+https://iptv-org.github.io/iptv/index.region.m3u
+```
+
+Same thing, but split up into separate files:
+
+<!-- prettier-ignore -->
+<table>
+  <thead>
+    <tr><th align="left">Region</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
+  </thead>
+  <tbody>
+    <tr><td align="left">EPG</td><td align="right">418</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/regions/arab.m3u</code></td></tr>
+    <tr><td align="left">Database</td><td align="right">2949</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/regions/asia.m3u</code></td></tr>
+    <tr><td align="left">Api</td><td align="right">1939</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/regions/apac.m3u</code></td></tr>
+    <tr><td align="left">Resources</td><td align="right">1055</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/regions/cee.m3u</code></td></tr>
   </tbody>
 </table>
 
