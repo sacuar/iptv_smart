@@ -162,10 +162,15 @@ Same thing, but split up into separate files:
 <details>
 <summary>Expand</summary>
 <br>
-Radio Foorti
-```
-http://119.148.23.88:1021/
-```
+<table>
+  <thead>
+    <tr><th align="left">Category</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>🇧🇩 Bangladesh</td><td>Radio Foorti</td><td align="right">53</td><td nowrap><code>http://119.148.23.88:1021/)</code></td></tr>
+    <tr><td>Documentary</td><td align="right">66</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/documentary.m3u</code></td></tr>
+    </tbody>
+</table>
 </details>
 ## Others
 <details>
