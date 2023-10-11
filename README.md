@@ -1,7 +1,8 @@
 # IPTV [![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/iptv-org/iptv/actions/workflows/update.yml)
-Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
+Collection of publicly available IPTV (Internet Protocol television) channels  and RADIO channel from all over the world.
 ## Table of contents
 - 📺 [Playlists](#playlists)
+- RADIO CHANNELS
 - 🗓 [EPG](#Others)
 - 🗄 [Database](#database)
 - 👨‍💻 [API](#api)
@@ -157,7 +158,11 @@ Same thing, but split up into separate files:
 </table>
 
 </details>
-
+## RADIO CHANNEL
+Radio Foorti
+```
+http://119.148.23.88:1021/
+```
 ## Others
 <details>
 <summary>Expand</summary>
